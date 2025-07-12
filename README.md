@@ -9,9 +9,10 @@
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
   [![Framer Motion](https://img.shields.io/badge/Framer_Motion-11.2.10-0055FF?style=for-the-badge&logo=framer)](https://www.framer.com/motion/)
 
-  **A modern, feature-rich anime discovery platform built with Next.js 14**
-  
-  [🚀 Live Demo](https://anime-vault-demo.vercel.app) • [📖 Documentation](#-features) • [🛠️ Installation](#-installation)
+**A modern, feature-rich anime discovery platform built with Next.js 14**
+
+[🚀 Live Demo](https://anime-vault-demo.vercel.app) • [📖 Documentation](#-features) • [🛠️ Installation](#-installation)
+
 </div>
 
 ---
@@ -19,6 +20,7 @@
 ## ✨ Features
 
 ### 🎯 **Core Functionality**
+
 - **Anime Discovery**: Browse and discover anime with real-time data from Shikimori API
 - **Smart Search**: Instant search functionality with autocomplete suggestions
 - **Genre Filtering**: Filter anime by categories (Action, Adventure, Drama, etc.)
@@ -26,6 +28,7 @@
 - **Infinite Scroll**: Seamless loading of more content as you browse
 
 ### 🎨 **Modern UI/UX**
+
 - **Glassmorphism Design**: Beautiful glass-effect components with backdrop blur
 - **Responsive Layout**: Optimized for desktop, tablet, and mobile devices
 - **Smooth Animations**: Framer Motion-powered transitions and micro-interactions
@@ -33,6 +36,7 @@
 - **Interactive Cards**: Hover effects and dynamic content loading
 
 ### 🔧 **Technical Features**
+
 - **Server-Side Rendering**: Next.js 14 with App Router for optimal performance
 - **TypeScript**: Full type safety and enhanced developer experience
 - **API Integration**: Real anime data from Shikimori API
@@ -44,18 +48,21 @@
 ## 🛠️ Installation
 
 ### Prerequisites
+
 - Node.js 18.0 or higher
 - npm or yarn package manager
 
 ### Quick Start
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/BreyeFoka/Anime-Vault.git
    cd Anime-Vault
    ```
 
 2. **Install dependencies**
+
    ```bash
    npm install
    # or
@@ -63,6 +70,7 @@
    ```
 
 3. **Run the development server**
+
    ```bash
    npm run dev
    # or
@@ -115,18 +123,21 @@ anime-vault/
 ## 🎮 Usage
 
 ### Browsing Anime
+
 - **Homepage**: View featured, trending, and top-rated anime
 - **Search**: Use the search bar in the hero section or navigation
 - **Categories**: Click genre buttons to filter anime by category
 - **Infinite Scroll**: Scroll down to automatically load more anime
 
 ### Watching Anime
+
 1. **Find an anime** you want to watch
 2. **Click "Watch Now"** on any anime card
 3. **Select a streaming service** from the modal that appears
 4. **Enjoy!** You'll be redirected to the streaming platform
 
 ### Navigation
+
 - **Fixed Header**: Always accessible navigation with search
 - **Mobile Menu**: Hamburger menu for mobile devices
 - **Responsive Design**: Optimized for all screen sizes
@@ -136,6 +147,7 @@ anime-vault/
 ## 🔌 API Integration
 
 ### Shikimori API
+
 The application integrates with the [Shikimori API](https://shikimori.one/api/doc) to fetch real anime data:
 
 - **Anime Data**: Title, description, ratings, episodes, images
@@ -144,7 +156,9 @@ The application integrates with the [Shikimori API](https://shikimori.one/api/do
 - **Detailed Information**: Cast, studios, release dates
 
 ### Streaming Services
+
 Integrated streaming platforms include:
+
 - Crunchyroll
 - Netflix
 - Funimation
@@ -158,6 +172,7 @@ Integrated streaming platforms include:
 ## 🎨 Customization
 
 ### Themes
+
 The application uses CSS custom properties for easy theming:
 
 ```css
@@ -169,7 +184,9 @@ The application uses CSS custom properties for easy theming:
 ```
 
 ### Animations
+
 Custom animations are defined in `globals.css`:
+
 - Fade-in effects
 - Slide transitions
 - Floating animations
@@ -177,7 +194,9 @@ Custom animations are defined in `globals.css`:
 - Glow effects
 
 ### Components
+
 All components are modular and customizable:
+
 - Modify styling in individual component files
 - Adjust animations via Framer Motion props
 - Configure API endpoints in `action.tsx`
@@ -187,6 +206,7 @@ All components are modular and customizable:
 ## 🚀 Performance
 
 ### Optimizations
+
 - **Image Optimization**: Next.js Image component with lazy loading
 - **Code Splitting**: Automatic code splitting with Next.js
 - **Server-Side Rendering**: Fast initial page loads
@@ -194,6 +214,7 @@ All components are modular and customizable:
 - **Bundle Size**: Optimized bundle with tree shaking
 
 ### Lighthouse Scores
+
 - Performance: 95+
 - Accessibility: 100
 - Best Practices: 100
@@ -221,6 +242,7 @@ We welcome contributions! Here's how you can help:
 5. **Open a Pull Request**
 
 ### Development Guidelines
+
 - Follow TypeScript best practices
 - Use meaningful component names
 - Write responsive CSS with Tailwind

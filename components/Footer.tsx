@@ -32,7 +32,7 @@ const socialLinks = [
 
 function Footer() {
   return (
-    <footer className="relative bg-gradient-to-br from-gray-900 via-gray-800 to-black border-t border-gray-700/50">
+    <footer className=" fixed bg-gradient-to-br from-gray-900 via-gray-800 to-black border-t border-gray-700/50">
       {/* Background Elements */}
       <div className="absolute inset-0 bg-[url('/hero.png')] bg-center bg-cover opacity-5" />
 
