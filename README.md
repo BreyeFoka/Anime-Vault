@@ -11,7 +11,7 @@
 
 **A modern, feature-rich anime discovery platform built with Next.js 14**
 
-[🚀 Live Demo](https://anime-vault-demo.vercel.app) • [📖 Documentation](#-features) • [🛠️ Installation](#-installation)
+[🚀 Live Demo]([https://anime-vault-demo.vercel.app)](https://anime-vault-nine-dusky.vercel.app/) • [📖 Documentation](#-features) • [🛠️ Installation](#-installation)
 
 </div>
 
@@ -271,13 +271,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help:
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 📧 Email: [your-email@example.com](mailto:breyefokalagloire@gmail.com)
 - 🐛 Issues: [GitHub Issues](https://github.com/BreyeFoka/Anime-Vault/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/BreyeFoka/Anime-Vault/discussions)
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the Anime Vault team</p>
+  <p>Made with ❤️ by Breye Foka</p>
   <p>⭐ Star this repo if you find it helpful!</p>
 </div>
